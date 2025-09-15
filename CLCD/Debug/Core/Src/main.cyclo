@@ -1,0 +1,16 @@
+../Core/Src/main.c:100:1:__io_putchar	2
+../Core/Src/main.c:110:6:I2C_ScanAddresses	3
+../Core/Src/main.c:130:6:delay_us	2
+../Core/Src/main.c:137:6:LCD_DATA	5
+../Core/Src/main.c:156:6:LCD_CMD	5
+../Core/Src/main.c:174:6:LCD_CMD_4bit	3
+../Core/Src/main.c:184:6:LCD_INIT	1
+../Core/Src/main.c:204:6:LCD_XY	5
+../Core/Src/main.c:215:6:LCD_CLEAR	1
+../Core/Src/main.c:220:6:LCD_PUTS	2
+../Core/Src/main.c:230:5:main	1
+../Core/Src/main.c:281:6:SystemClock_Config	3
+../Core/Src/main.c:317:13:MX_I2C1_Init	2
+../Core/Src/main.c:349:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:380:13:MX_GPIO_Init	1
+../Core/Src/main.c:425:6:Error_Handler	1
