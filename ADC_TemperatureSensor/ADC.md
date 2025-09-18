@@ -1,11 +1,10 @@
 # ADC_TemperatureSensor
 
 <img width="995" height="550" alt="temp_013" src="https://github.com/user-attachments/assets/3a757270-4e1d-4f5d-86ef-6cedc029c2cb" />
+<img width="456" height="215" alt="image" src="https://github.com/user-attachments/assets/bdf43d46-f0e0-499c-aa1d-556351a37c74" />
 <br><br><br>
 
 <img width="1392" height="908" alt="temp_001" src="https://github.com/user-attachments/assets/58c7a569-3998-4bae-acc3-452452404976" />
-<img width="456" height="215" alt="image" src="https://github.com/user-attachments/assets/bdf43d46-f0e0-499c-aa1d-556351a37c74" />
-
 <br>
 <img width="1392" height="908" alt="temp_002" src="https://github.com/user-attachments/assets/49a9d813-1ae3-4add-936b-4141b97b4a30" />
 <br>
